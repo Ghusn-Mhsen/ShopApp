@@ -11,3 +11,4 @@ A Flutter shop app with api and authentication using Bloc.
 - Remove from Wishlist
 - Profile 
 - Edit Profile 
+- search for a product
